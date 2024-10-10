@@ -28,18 +28,18 @@ This project implements two pages, /users and /products, that utilize reusable c
 * **Reusable Components** : Both pages utilize shared components for consistent design and functionality.
 * **API Integration**: Data is fetched from the Dummy JSON API using Axios.
 * **Filtering Options**:
-        Page Size: Options to select page sizes (5, 10, 20, 50).
-        Search Functionality: Client-side filtering based on user input.
-        Dynamic Filters: Filters reset other fields when a new value is entered.
-        Data Table: Displays fetched data with 10 columns.
-        Pagination: Navigates through pages of data, fetching new data from the API as needed.
-        Responsive Design: Ensures usability on various devices.
+        * **Page Size**: Options to select page sizes (5, 10, 20, 50).
+        * **Search Functionality**: Client-side filtering based on user input.
+        * **Dynamic Filters**: Filters reset other fields when a new value is entered.
+        * **Data Table**: Displays fetched data with 10 columns.
+        * **Pagination**: Navigates through pages of data, fetching new data from the API as needed.
+        * **Responsive Design**: Ensures usability on various devices.
 
 ## Installation
 
 1- Clone the repository:
 
-git clone [repository_link]
+git clone [git@github.com:Fatema197/react_app.git]
 
 2- Navigate to the project directory:
 
